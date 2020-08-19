@@ -1,4 +1,5 @@
 {
+  "test": "ok",
   "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.3.0.json",
   "feeds": [
     {
